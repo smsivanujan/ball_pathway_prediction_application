@@ -3,9 +3,9 @@ Deployment instructions for the "Ball Pathway Prediction Application" involve se
 Ensure that Python 3.10 is installed on your system. 
 If not, download and install Python from the official website and follow the install instruction .
 After installation open cmd in your target folder and check the python 3.10 is available. Because above 3.10 python version is required.
-	
-	python --version
-  	
+
+		python --version
+
 If you can’t find python 3.10 in cmd add your path in environmental variable and move to top in the list . 
 Next step is clone project from git repository.
   
