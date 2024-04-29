@@ -19,13 +19,13 @@ After that change directory path to where our project placed in folder.
 Create a virtual environment to isolate dependencies for the application.
 
         pip install virtualenv
-        virtual venv
+        virtualenv venv
         venv\Scripts\activate
 
 3. Dependency Installation
 Install the necessary Python libraries in requirements.txt using pip.
 	
-        D:\ball_pathway_prediction_application\ball_pathway_prediction\venv\Scripts\python.exe -m pip install -r requirements.txt
+        pip install -r requirements.txt
 	
 4. Run the Application
 Run the Python script to launch the application.
