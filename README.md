@@ -9,9 +9,9 @@
 4. trained model - contains trained ball detection model.
 	
 --------------------------------------------------------------------------------------------------
+# Project Installation
 
 Deployment instructions for the "Ball Pathway Prediction Application" involve setting up the necessary environment, installing dependencies, and running the application.
-## Project Installation
 Ensure that Python 3.10 is installed on your system. 
 If not, download and install Python from the official website and follow the install instruction.
 After installation open cmd in your target folder and check the python 3.10 is available. Because above 3.10 python version is required.
