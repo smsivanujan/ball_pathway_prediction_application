@@ -1,3 +1,12 @@
+Folder Structure
+------------------------------------------------------------------------------------------------------
+ball_pathway_prediction - contain path detection source code [main.py]
+object_detaction_model_training - contain model training source code [Object_Detction_Model.ipynb]
+sample videos - sample basketball videos for testing/running applications to use as a resource
+trained model - contains trained ball detection model
+------------------------------------------------------------------------------------------------------
+
+
 Deployment instructions for the "Ball Pathway Prediction Application" involve setting up the necessary environment, installing dependencies, and running the application.
 1. Python Installation
 Ensure that Python 3.10 is installed on your system. 
